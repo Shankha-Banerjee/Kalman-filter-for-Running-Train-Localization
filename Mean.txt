@@ -1,0 +1,7 @@
+					Error with GPS Reference data in
+
+               Roll         Yaw       	Acc(north)  	Acc(east)	 Vel(north)	 Vel(east)	
+            (Arc min)    (Arc min)        (m/s2)     	 (m/s2)      	   (m/s)           (m/s)
+
+CKF         -0.086769	 -0.229434	 0.000449	 0.000397	 0.000470	 1.097434	
+ROKF        -0.085429	 -0.228094	 0.000449	 0.000397	 0.000471	 1.097435	
